@@ -8,7 +8,7 @@ Sua missão agora é criar um algoritmo que te indique qual é o maior desconto 
 ## Entrada:
 Cada instância está armazenada em um arquivo com extensão “.in”. A única linha a ser lida da entrada padrão contém o nome de tal arquivo contendo a instância. Esse nome deve ser usado para ler o arquivo da instância, que se encontra na mesma pasta que o executável.
 
-Cada instância contém um único caso de teste. A primeira linha indica o número $N (2 ≤ N ≤ 10^6)$ de itens que você vai comprar na loja. A próxima  linha contém os preços $P_i (1 ≤ Pi ≤ 10^7)$, para $i = 1, . . . , N$, de cada um dos  itens da sua lista. Todos os valores de entrada são inteiros.
+Cada instância contém um único caso de teste. A primeira linha indica o número N (2 ≤ N ≤ 10^6) de itens que você vai comprar na loja. A próxima  linha contém os preços P_i (1 ≤ Pi ≤ 10^7), para i = 1, . . . , N, de cada um dos  itens da sua lista. Todos os valores de entrada são inteiros.
 
 ## Saída:
 Ao final da execução, seu programa deve imprimir um único valor inteiro, indicando qual  ́e o maior desconto que você conseguir ́a na promoção. Note que, esse maior desconto corresponde à soma dos valores de todos os itens pelos quais você não precisou pagar.
